@@ -42,11 +42,6 @@
 - State Management: Zustand
 - API Management: TanStack Query
 
-## ข้อมูลเข้าสู่ระบบผู้ดูแล
-
-- Username: nextmovez_admin
-- Password: ADMIN_PANEL_NMZ_202737
-
 ## วิธีการติดตั้งและใช้งาน
 
 โปรดดูที่ไฟล์ [INSTALL.md](./INSTALL.md) สำหรับคำแนะนำในการติดตั้งและใช้งาน
